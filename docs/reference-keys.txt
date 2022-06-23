@@ -2,10 +2,14 @@ présentation
 analyse-mondiale
 population
 energie
+sources-dénergie
+types-dénergie
 nourriture
 analyse-continentale
 population-1
 energie-1
+sources-dénergie-1
+types-dénergie-1
 nourriture-1
 analyse-par-pays
 population-2
