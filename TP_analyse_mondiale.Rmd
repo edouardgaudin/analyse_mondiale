@@ -1,5 +1,5 @@
 ---
-title: "TP R CEFIM 2022 - Analyse mondiale"
+title: "TP R - Simon M., Maxime M., Edouard G. - Formateur : Oswaldo Forey"
 author: "Edouard GAUDIN"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
