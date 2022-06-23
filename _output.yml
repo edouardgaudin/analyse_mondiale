@@ -7,9 +7,9 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Mini Bookdown Tutorial</a></li>
+        <li><a href="./">Analyse Mondiale</a></li>
       after: |
-        <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
+        <li><a href="https://edouardgaudin.shinyapps.io/TP_ShinyAppWeb/?_ga=2.152478393.1048000238.1655824429-1851816765.1655373864" target="blank">Shiny App</a></li>
     edit: https://github.com/jules32/bookdown-tutorial/edit/master/%s
     download: ["pdf"]
 #bookdown::pdf_book:
