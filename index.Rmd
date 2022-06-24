@@ -14,5 +14,7 @@ description: "A mini bookdown tutorial book on how to make bookdown books."
 
 # Présentation
 
-Bienvenue sur l'analyse mondiale de la population, la production de nourriture et la consommation d'énergie.
+Bienvenue sur l'analyse mondiale de la population, la production de nourriture et la consommation d'énergie depuis 1950.
 
+
+A partir de données issues des instances intergouvernementales mondiales (UN et FAO), vous trouverez dans ce document des visuels, des données de synthèse et des outils permettant de vous aider pour votre campagbe de sensibilisation.

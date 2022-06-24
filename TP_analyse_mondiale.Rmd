@@ -308,7 +308,7 @@ energie_continent<-inner_join(energie,iso_clean,by=c("iso_code"="alpha-3")) |>
 
 ### Sources d'énergie
 
-La plus grosse augmentation de consommation d'énergie est à noter pour l'Asie, tandis qu'un pic a été atteint vers 1985 pour l'Europe.
+La plus grosse augmentation de consommation d'énergie est à noter pour l'Asie, tandis qu'un pic a été atteint vers 1985 pour l'Europe avec l'explosion du biofuel.
 
 On constate également que l'Afrique ne consomme pas beaucoup d'énergie, et encore moins d'énergie solaire.
 
@@ -407,7 +407,7 @@ Pour filtrer année par année, un lien vers notre application Shiny est disponi
 
 ## Population
 
-Les 2 pays les plus peuplés sont la Chine et l'Inde.
+Les 2 pays les plus peuplés sont la Chine et l'Inde, suivis des Etats-Unis.
 
 ```{r CARTE CHOROPLETHE POPULATION}
 
